@@ -1,0 +1,9 @@
+{
+    "name": "Bhajan Marg Jap",
+    "short_name": "Bhajan Marg Jap",
+    "description": "Naam Japak Counter",
+    "start_url": "https://radiant-alpaca-085795.netlify.app/",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "/"
+}
